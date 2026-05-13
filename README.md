@@ -12,9 +12,9 @@ http://localhost:8080
 
 or
 
-``bash``
+```bash
 http://<you_host_ip>:8080
-``
+```
 
 # Credentials:
 
